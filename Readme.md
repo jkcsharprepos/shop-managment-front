@@ -1,1 +1,2 @@
-A small part of a large application I created for one bakary company
+20-25% of my application for one bakery company, created in May 2023
+
